@@ -1,5 +1,5 @@
 body {
-    background-color: rgb(114, 107, 107);
+    background-color: rgb(107, 93, 93);
     display:flex;
     align-items: center;
 
@@ -8,6 +8,7 @@ body {
 h1{
     text-align: center;
     color: silver;
+    align-items: center;
 }
 
 button{
